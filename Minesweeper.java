@@ -1,10 +1,3 @@
-package com.example.demo.util;
-
-import com.example.demo.model.Sensor;
-
-import java.util.*;
-
-
 public class Minesweeper {
 
 
